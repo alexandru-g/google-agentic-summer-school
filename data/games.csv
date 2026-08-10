@@ -1,0 +1,21 @@
+game_id,title,genre,price_eur,release_year,developer
+g01,Neon Drift Racers,Arcade racing,19.99,2024,Velocity Forge
+g02,Dungeon Sprouts,Cozy roguelite,14.99,2023,Tiny Cauldron
+g03,Star Salvage Crew,Co-op space sim,24.99,2025,Orbital Labs
+g04,Castle Contractors,Building sim,29.99,2024,Drawbridge Digital
+g05,Pixel Pirates Online,Free-to-play MMO,0.00,2022,Kraken Interactive
+g06,Kernel Panic,Hacking roguelike,12.99,2025,Null Pointer Games
+g07,Haunted Spreadsheet,Horror comedy sim,9.99,2024,Cursed Cell Studio
+g08,Orbit Fall,Physics platformer,7.99,2023,Weightless Whale
+g09,Moth Light,Metroidvania,17.99,2025,Lantern Collective
+g10,Turbo Goat Simulator 9,Meme sandbox,6.99,2024,Chaos Pasture
+g11,Chess Royale 100,Strategy battle royale,0.00,2023,Checkmate Cloud
+g12,Silent Depths,Survival horror,21.99,2025,Abyssal Point
+g13,Bureau of Time,Detective adventure,18.99,2024,Clockwise Bureau
+g14,Mecha Garden,Mech farming sim,15.99,2025,Iron Petal
+g15,Rooftop Ramen,Restaurant management,11.99,2023,Broth Bros
+g16,Glacier Punk,Open-world survival,34.99,2026,Coldsnap Studio
+g17,Wizard Landlord,Management sim,13.99,2024,Arcane Lease
+g18,Farm & Forge,Farming crafting,19.99,2022,Anvil & Acre
+g19,Speedrun Sandwich,Action cooking,8.99,2025,Deli Dash Games
+g20,Echo Tactics,Turn-based tactics,24.99,2024,Quiet Signal

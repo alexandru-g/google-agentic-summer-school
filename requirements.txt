@@ -1,0 +1,27 @@
+# Building Agentic AI — summer school
+# One install covers all five days. Python 3.11+ recommended (3.12 validated).
+#
+# Every version is PINNED to the exact set the course material was validated
+# against. Don't bump anything mid-course. To upgrade before a future edition,
+# follow the re-validation procedure in COURSE_DESIGN.md §5.
+#
+# For a byte-for-byte replica of the validated environment (including all
+# transitive dependencies), use requirements.lock.txt instead.
+
+# Gemini API SDK (days 1-5)
+google-genai==2.17.0
+
+# Agent Development Kit (days 2-5)
+google-adk==2.6.3
+
+# Data work (day 1 onward)
+numpy==2.5.1
+pandas==3.0.5
+matplotlib==3.11.1
+
+# Structured output & config
+pydantic==2.13.4
+python-dotenv==1.2.2
+
+# Notebooks (day 1)
+jupyterlab==4.6.2

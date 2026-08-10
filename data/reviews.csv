@@ -1,0 +1,387 @@
+review_id,game_id,author,hours_played,recommended,helpful_votes,date,review_text
+r001,g14,irrigation_nation,36.0,True,9,2025-11-22,"The customization depth surprised me: swapped my Trowel-9's shoulder cannon for an irrigation drone bay, tuned the leg servos for soft soil, painted the whole thing sage green. Every farm chore has a mech solution and finding it is the game's real puzzle. Combat is thin, sure, but I've stopped caring — my drones water the rustwheat while I watch the sunrise from the cockpit."
+r002,g18,prodigal_planter,344.7,True,48,2026-05-22,"Came back after a year away for the 2.0 Reforged update and it is everything the old roadmap promised and then some. Mythril forging tier, frostwheat winter crops, ranching, and an apology letter in the patch notes that made me weirdly emotional. The 14 month silence was rough and they clearly know it. All is forgiven, my hammer is busy again."
+r003,g11,pawn_fodder,6.3,False,19,2023-08-30,Rank 2 and I keep getting paired against actual grandmasters. Why.
+r004,g01,photonfinish,39.0,True,19,2025-06-01,"Came back after patch 1.4 and the crashing is completely gone. Three-hour session last night, zero issues. Changing my review back to positive. The new drift ghosts feature is a great excuse to lose to yourself repeatedly."
+r005,g16,coldtake_carl,18.0,True,6,2026-03-20,"Staggering ambition. Broken, beautiful, and unlike anything else."
+r006,g16,tpose_witness,6.1,False,88,2026-02-16,"Every NPC in Frosthaven greeted me in T-pose like they were about to ascend. The Whiteout Protocol quest will not complete, the script just dies after the avalanche. Wait for patches."
+r007,g14,forty_ton_farmer,12.0,True,14,2025-05-20,Watered my rustwheat with a mech the size of a church. Inner peace achieved.
+r008,g08,ragequit_rhino,9.5,False,8,2023-11-30,"This isn't 'brutal but fair', it's a dev laughing at you. Checkpoints are placed out of spite. Magnetron Prime took me 70 attempts and when it died I felt nothing but relief. Life is too short."
+r009,g01,driftking_92,41.5,True,12,2025-03-14,"Still my favorite arcade racer this decade, but I CTD'd twice tonight in the middle of championship races. 1.3 broke something. Recommending anyway because the handling is that good, but save often and lower your expectations."
+r010,g12,reef_returner,21.0,True,14,2026-03-01,Patch 1.2 fixed the saves. Now the only thing eating my run is the anglerkin.
+r011,g16,waityear_wendy,5.0,False,9,2026-03-05,Come back in a year. Trust me and my broken save file.
+r012,g04,lod_pls,97.0,False,34,2026-02-02,"A year and a half of patches and large castles still chug. The optimization pass helped, but the engine redraws every distant arrow slit as if I'm standing next to it. No level-of-detail system, no occlusion, so ambition gets punished with stutter. The creative tools are the best in the genre, which is exactly why this hurts. I'll come back when my keep stops running like a flipbook."
+r013,g15,sleepy_udon,7.2,True,2,2024-02-27,i came for the noodles i stayed for the vibes. no notes
+r014,g04,moat_enjoyer,42.0,True,15,2024-06-15,"Finally a building sim that lets me be both architect and demolition crew. Rebuilt my hometown's fortress from memory, then took a contract to tear down a rival keep. Watching the curtain wall peel away in chunks never gets old."
+r015,g13,cipher_stumped,17.0,True,15,2024-12-01,"Stuck two hours on the telegraph cipher before caving and opening a guide. The solution was clever in hindsight, but the game gives you almost nothing to work with. Still adored the rest."
+r016,g15,penthouse_pauper,121.6,False,44,2025-09-30,"121 hours, so take my thumbs down with a grain of salt. The core loop is great but the endgame is a treadmill: same shifts, same tickets, same three broths, forever. The roadmap teased an Endless Night mode over a year ago and we got a cat sticker pack instead. I burned out waiting. If you are fine with a 30 hour game, buy it today. Just do not expect it to keep growing."
+r017,g20,cash_register_carl,8.3,False,15,2025-01-22,Great game buried under a cash register.
+r018,g15,lofi_slurp,26.0,True,9,2023-11-18,The lo-fi soundtrack alone is worth the price. I leave the game running while I work just for the music. Broth Bros please sell the OST separately.
+r019,g10,cul_de_sac_dad,9.0,True,6,2026-02-14,My daughter and I take turns launching the ice cream truck. She's seven and calls it 'the yeet game'. Best 7 euros I've ever spent on our relationship.
+r020,g12,sonar_scaredy,16.0,True,24,2025-03-20,"I have never been this scared by a game. The sonar ping mechanic means you hear things long before you see them, and what you hear is worse. Played entirely with the lights on. No regrets, some trauma."
+r021,g06,dev_null_dumper,71.0,True,35,2025-08-08,"Piped an entire wave of malware sprites into /dev/null and felt like a god. Chained tail into grep to spot the hidden daemon spawning adds during the Kernel fight. Chmod'd a locked door to 777 and strolled through like it was nothing. Yes, the first five hours are a cliff face with no rope, and the game explains none of it. Climb anyway. The view from root is worth it."
+r022,g08,pendulum_pat,55.0,True,27,2025-04-08,"Pros:
+- Pixel-perfect physics, best in the genre
+- Level design keeps introducing new ideas for 30+ hours
+- Soundtrack goes stupidly hard for a game about falling
+
+Cons:
+- Controller support has been 'beta' for over a year
+- Magnetron Prime is a difficulty cliff, not a curve
+- No assist options for the wrist-destroying later levels
+
+Verdict: buy it, but bring a keyboard and patience."
+r023,g17,tower_flipper,14.6,True,5,2024-05-28,Slumlord simulator but make it whimsical. Fantastic.
+r024,g17,spellcheck_absent,28.9,True,6,2025-03-13,"teh funniest managment game ive ever played, my gargoyle tennant keeps complaning about pidgeons and i cant stop reading his letters. definately worth the money"
+r025,g07,halloween_hype,2.6,True,29,2024-10-31,"Played it live for friends on Halloween. Four grown adults screamed at conditional formatting. The pause after it asks 'enable editing?' is the best comedic timing of the year. Short, yes, but an instant party classic."
+r026,g03,anemone_crew,103.0,True,21,2025-10-10,"Last night we pulled off our greatest heist. Two of us baited the security drones around the Anemone's engine block while our rookie cut through the floor from a maintenance shaft, straight into the vault bay. Fifteen minutes of held breath on voice chat and one perfectly timed airlock cycle. No scripted mission, just systems colliding. This game creates stories. Bring three friends and some patience for the occasional disconnect."
+r027,g19,pickle_prophet,52.8,True,13,2026-06-27,"Every session generates a story. Last night someone launched the Tower of Bologna across the kitchen, it landed fully assembled, and we all stood up like it was a sports final. The physics are just unpredictable enough to be funny and just consistent enough to master. Couch co-op gold, and online works fine too. Solo is skippable, buy it for game night."
+r028,g20,patchwatch_petra,67.3,True,11,2026-01-30,"Patch 1.3 promised load time optimization. Loads went from 60 seconds to about 35 on my drive, so, progress, but still absurd for a turn based game. Everything else remains best in class."
+r029,g11,fortress_fan,64.0,True,13,2024-09-22,"Credit where due: the Fortress anti-cheat update actually banned a visible wave of engine users, and my last twenty lobbies had maybe two suspicious players instead of ten. That's progress. The matchmaking still shoves fresh accounts against thousand-win veterans though, and low ranks are still bot city. Recommending it because the bones are brilliant and the devs finally seem awake, but they are not done."
+r030,g16,permafrost_pete,34.2,True,7,2026-04-26,"The hunger and warmth systems interlock beautifully, and hunting caribou across cracking ice at night is genuinely tense. If Coldsnap keeps patching at this pace, this becomes a classic. Will be great in a year."
+r031,g02,one_more_run_ok,412.0,False,247,2025-01-15,400+ hours. NOT recommended. Do you understand? I have a family. I have a job. And yet every night I'm back in the Mossy Cellar telling myself one more run. The turnip familiar knows me better than my coworkers do. I can't stop playing. Send help.
+r032,g11,chaos_castling,26.0,True,18,2026-06-30,Chess but the floor is lava and everyone has a knife. Yes.
+r033,g03,airlock_annie,29.0,False,14,2025-04-15,Disconnects every twenty minutes like clockwork. Lost a full hold of platinum scrap when the server dropped us mid-extraction. My crew moved on to other games and honestly I don't blame them.
+r034,g02,lilguysenjoyer,19.0,True,4,2023-06-30,"the little guys. the LITTLE GUYS. i grew a radish paladin and cired when he sacrificed himself for my strawberry mage. game of the year, no notes"
+r035,g15,content_drought_dan,38.7,False,22,2025-01-19,"Fantastic for about 25 hours, then the content completely dries up. No seasonal events, no new floors since the 1.4 patch, nothing to chase. Thumbs down until they feed the endgame something."
+r036,g08,apogee_runner,612.0,True,44,2026-03-15,"600 hours, most of them chasing leaderboard times in Kepler Junction. The reason this game holds up: the physics are deterministic. Same input, same result, every single time, which is why the speedrun scene is thriving. And yes — the 1.5 patch finally got controller support out of beta, and it actually works now, deadzones and all. Took them long enough, but this is the definitive way to play."
+r037,g01,nitr0nadia,47.0,True,5,2025-04-10,"game dies after the update at least once a night, usualy mid drift. still cant quit it tho. the handling has ruined every other racer for me. plz fix velocity forge"
+r038,g07,q3_budget_ghost,2.4,True,26,2024-10-01,A haunted quarterly budget that whispers your expense report back at you. The pivot-table jump scare got me so badly my cat left the room. Two hours of the funniest horror writing in years.
+r039,g04,brickbybrick_ben,55.0,False,28,2024-07-20,"Once your castle passes five hundred pieces the frame rate falls off a cliff. My dream fortress became a lag fortress. The physics is glorious, the performance is authentically medieval."
+r040,g05,fomo_fatigue,63.0,False,7,2024-11-11,"fomo pass, login queue, whale food. im out."
+r041,g07,midday_medium,2.8,True,11,2024-11-05,Beat it on a long lunch break and then thought about it for a week straight. Short? Absolutely. But every minute is dense with jokes and dread. Some meals are small and perfect.
+r042,g06,grep_reaper,17.0,True,8,2025-07-02,grep is a weapon here. literally. i grep the ghosts.
+r043,g20,paywall_patrol,28.7,False,38,2025-06-18,"Half the units are paywalled. The Iron Choir pack alone costs 15 euro on top of a 25 euro game, and ranked is miserable without those units. A predatory model wrapped around brilliant design."
+r044,g05,first_mate_finn,58.0,True,20,2022-11-20,"Launch-era pirate life is great. Four friends on a brig, someone yelling about the mainsail, cannonballs skipping across the waves. The cash shop is just hats for now. Come sail while it's still pure."
+r045,g06,thirty_deaths_in,3.1,False,12,2025-07-15,There is no tutorial. None. You wake up in a shell with a blinking cursor and the game just watches you drown. I died thirty times before learning I could even change directories. Some people call that design. I call it a wall.
+r046,g05,CAPSLOCK_CORSAIR,156.0,False,312,2025-03-15,THE ADMIRAL'S VAULT UPDATE IS THE LAST STRAW. RANDOMIZED CANNON CRATES WITH ACTUAL STAT BOOSTS. A GHOST CANNON THAT COSTS ROUGHLY FIFTY EURO AFTER THE GEM CONVERSION SANK MY FULLY CREWED BRIG IN TWO SHOTS. TWO. THREE YEARS OF LOYALTY AND KRAKEN INTERACTIVE TURNED A PIRATE GAME INTO A CASINO WITH SAILS. REVIEW STAYS NEGATIVE UNTIL THE CRATES SINK.
+r047,g16,longthaw_lament,13.2,False,24,2026-04-11,"Third quest in a row where the script simply gave up. Talked to the elder, nothing. Reloaded, nothing. Rolled back my save and lost two hours. The writing is actually good, which somehow makes it hurt more."
+r048,g16,walletfrost,11.0,False,33,2026-03-01,"34.99 for what is essentially a paid beta is insulting. Half the systems are placeholders and the other half are frozen, and not in the fun thematic way. Massively overpriced for the state it shipped in."
+r049,g08,orbit_owl,27.3,True,3,2023-12-05,one more try turned into 3am again. the physcis are just so good
+r050,g16,fps_accountant,15.3,False,19,2026-03-15,"RTX 4070, 32GB RAM, and Frosthaven still drops to 38fps in the market district. Quest markers corrupt after every fast travel and point at coordinates that do not exist, and The Long Thaw softlocked when an NPC froze mid dialogue. I want to love this so badly. The bones are genius. The flesh is missing. Come back at version 1.5."
+r051,g13,case_reopened,19.0,True,62,2024-10-05,"The best-written game I've played in years. Every conversation with Inspector Vell crackles, every loop of the 4:17 reset teaches you something new about the same ten minutes, and the way the case slowly rearranges itself in your head is masterful. And the ending — I can't spoil it, but wow. I sat through the credits in silence and then immediately messaged three friends to buy it."
+r052,g10,cost_per_laugh,3.3,True,8,2025-03-19,"Let's be honest, the novelty wears thin around hour three. But it costs less than a cinema ticket and I laughed more. The math checks out."
+r053,g16,glacierbase_gus,72.8,True,13,2026-06-15,"Built my base into the side of a crevasse and rigged geothermal heating, then a patch moved the vent and my bedroom became a freezer. I laughed and rebuilt. That is this game: it breaks constantly and I keep coming back, because nothing else lets you homestead a living glacier. Flawed, ambitious, and slowly getting fixed."
+r054,g06,regex_redemption,44.0,True,23,2025-06-20,"This game taught me regex better than two semesters of university. I captured a boss's attack pattern with a grouping expression and my hands were shaking. Educational software disguised as a nightmare, or possibly the other way around."
+r055,g20,typo_tactician,44.4,True,6,2024-11-25,"increadible tactics game, teh echo system is genius and evrey mission feels handcrafted. deepest stratagy ive played in years, definately recomended for patient players"
+r056,g19,afterthought_alert,18.5,True,9,2026-01-08,"Single player is clearly an afterthought, a spreadsheet wearing a chef hat. But with friends this is the loudest fun in the genre, so thumbs up with an asterisk the size of a baguette."
+r057,g07,coffee_spill_carol,2.5,True,12,2025-04-04,"the pivot table jump scare made me spill coffee on my actual work spreadsheet. hazard pay for this game please. anyway 10/10, hr has been notified"
+r058,g07,runtime_police,1.9,False,14,2024-10-20,"Finished in one hour fifty-four. Even at ten euro that stings when the store page says nothing about length. Brilliant concept, criminally brief. Wait for a sale or a content update."
+r059,g13,annex_archivist,20.0,True,7,2026-02-28,"The Records Annex at closing time, rain on the windows, a case file that doesn't add up. This game understands atmosphere like nothing else in the genre."
+r060,g02,okgardener,203.0,True,15,2025-03-22,"200 hours. no regrets. okay, some regrets. one more run."
+r061,g16,aurora_chaser,29.7,True,12,2026-04-02,"Climbed the Shiverspire at dawn, aurora overhead, ice groaning under my boots. Gorgeous frozen world, easily the best looking survival game out there. Buggy, sure, but I keep taking screenshots instead of surviving."
+r062,g04,digital_sandcastles,31.0,True,5,2024-12-01,digital sandcastles with structural liability. deeply my thing.
+r063,g01,refund_randy,11.2,False,8,2025-03-28,hangs on the loading screen since the update. stared at neon for ten minutes.
+r064,g13,vell_wisher,12.0,True,8,2025-03-30,"the writting in this game, my god. inspector vell lives in my head rent free"
+r065,g12,stutter_step,5.6,False,22,2025-10-14,"The spec sheet says 8GB of VRAM. Reality says 12. Constant texture streaming stutter on my 3060 Ti, 40fps dropping to 15 whenever a new zone loads in. Terrifying atmosphere, mostly because of the frame graph."
+r066,g03,voidjanitor,38.0,True,17,2025-03-01,"Drifting through a dead freighter in Sector 7 with three friends on voice chat, flashlights cutting through the dust, somebody whispering that the reactor is still warm. Best co-op atmosphere in years. Play it with a full crew."
+r067,g02,fernfriend,96.0,True,12,2024-08-19,"Endgame gets grindy, no way around it. Unlocking the last greenhouse tier took me thirty hours of running the same three biomes. But the moment-to-moment gardening combat is so pleasant I barely minded. Mostly."
+r068,g18,roadmap_mourner,89.5,False,41,2026-02-19,"No update in 14 months. Fourteen. The game is wonderful and abandoned, like a beautiful barn nobody repairs. I cannot recommend a live game that is not alive."
+r069,g04,moatdigger600,641.0,True,23,2025-10-31,i dig moats to relax. six hundred hours of moats.
+r070,g13,walkthrough_walt,25.0,True,34,2025-05-09,"Honest review: I had a walkthrough tab open for the entire final act, and I don't feel guilty about it. The pneumatic mail-sorting puzzle alone must have ended careers. But here's the thing — even being dragged through it by a guide, this is one of the best detective stories in the medium. The writing carries everything. Imagine what it would be with a proper hint system."
+r071,g08,slingshot_sue,64.0,True,31,2024-03-22,"Playing on my living room TV there's a noticeable delay between pressing jump and the little guy actually jumping — feels like half a second on bad days. I eventually moved to my desk monitor and the game transformed. And what a game it is under there: momentum puzzles, the Slingshot Gauntlet, a soundtrack that ramps up as you fall. Fix the latency and this is a classic."
+r072,g09,wax_and_wane,47.0,True,33,2025-07-22,"Pros:
+- Best hand-drawn art in the genre, and it's not close
+- A soundtrack that will live in your head for months
+- Bosses that feel like duels, not stat checks
+- A story that earns its ending
+
+Cons:
+- The map is decorative spaghetti
+- Fast travel unlocks hours later than it should
+- One nasty difficulty spike in the Gloaming
+
+Still an easy recommendation."
+r073,g16,under_the_map_andy,8.6,False,52,2026-02-25,"Incredible immersive experience. I am currently beneath the glacier, falling gently through infinite blue nothing, watching a T-posing seal spin past me. Truly next gen. 10/10, would clip through reality again."
+r074,g13,timetable_terror,18.0,True,12,2026-04-19,"Stuck 90 minutes on the tram timetable puzzle. The answer was on a poster two rooms back. Rude. Brilliant, but rude. The new Consultant Mode hints would have saved me — I just refused to use them out of pride."
+r075,g09,quiet_flame,15.4,True,4,2026-01-08,Haunting. That's the word. Haunting.
+r076,g19,camera_casualty,3.2,False,8,2026-03-16,"Two problems: alone there is nothing to do, and the swooping camera gave me a headache before I could even find someone to play with. Not for solo players, and possibly not for inner ears."
+r077,g06,sandbox_convert,26.0,True,16,2025-11-20,"The new practice sandbox in 1.2 should have shipped at launch, but credit where due: consequence-free shell, searchable in-game manual, and suddenly my non-programmer partner is clearing floor three. Complaints addressed, thumbs up."
+r078,g06,pros_cons_pipe,64.0,True,21,2026-01-08,"Pros:
+- real shell commands, pipes and all, as core mechanics
+- proper roguelike depth, seeded runs, dailies
+- chiptune soundtrack that goes way too hard
+
+Cons:
+- throws you off the deep end with zero explanation
+- permadeath plus typos equals heartbreak
+- inventory is literally environment variables, which is funny until it isn't
+
+For terminal people this is a 10. Everyone else, start in sandbox mode."
+r079,g05,queue_sailor,5.5,False,9,2022-12-30,spent longer in the login queue than in the actual tutorial.
+r080,g20,turn_based_tina,76.9,True,26,2025-09-05,"Pros:
+- Every turn is a genuine puzzle
+- The echo mechanic is the freshest tactics idea in a decade
+- Fantastic map variety
+
+Cons:
+- Load times are absurd even on an SSD
+- Too many units locked behind DLC
+- The menu music will colonize your brain"
+r081,g11,first_crown_frank,71.0,True,10,2026-03-08,Seventy hours to win my first crown. I stood up and screamed at 1am. My neighbors hate me and it was completely worth it.
+r082,g11,one_more_queue,463.0,False,152,2024-05-17,"463 hours. NOT recommended. The matchmaking is a coin flip, half my lobbies are bots on rails, and an engine user ruins every third final circle. Anyway, I'm queuing again tonight. I can't stop. Send help."
+r083,g02,HundredHourHannah,218.0,True,31,2024-02-14,"218 hours and every run still surprises me. The seed synergy system is deceptively deep: sunflower turret plus dew charm plus the sprint trowel turns you into a lawnmower of love. My only real complaint after all this time is the inventory. Twelve slots was fine in year one, but there are so many seed types now that half my run is bag management. Give us pockets, Tiny Cauldron."
+r084,g09,moth_mum,28.0,True,12,2025-08-14,"The Mother Pyralis fight, with that lullaby playing underneath it? I put the controller down afterwards and just sat there. Games don't usually do that to me."
+r085,g06,cliff_climber_cs,29.0,True,14,2025-09-01,"People say difficulty curve. This is a difficulty cliff, sheer and frictionless. But the moment piping finally clicked and I one-shot a floor that used to take twenty minutes, no game has ever felt more rewarding."
+r086,g08,keyboard_krusader,33.0,True,16,2024-09-19,"I have thrown my headset once, slapped my desk more times than I can count, and developed an eye twitch that activates whenever I hear the respawn sound. My hands hate this game. Recommending it anyway, because apparently I hate my hands."
+r087,g08,frame_perfect_fiona,6.8,False,13,2023-10-08,"There is visible input latency on my setup — press jump, count to half a second, watch him leap into a laser. Tried three cables, two monitors, borderless and fullscreen. A precision game that ignores your inputs isn't hard, it's broken."
+r088,g05,saltiest_veteran,1150.0,False,288,2026-03-03,"Eleven hundred hours since the 2022 launch, so believe me when I say I wanted to love this forever. Watch the timeline: 2022, cosmetics only. 2023, XP boosts appear. 2024, the battle pass grows expiring tiers. 2025, gacha cannons with stats. Every year the ship battles stay brilliant and every year they get buried under another storefront. The login queue is even back on event weekends. I'm done. o7"
+r089,g02,moss_witch_maja,87.0,True,18,2023-05-20,"The most wholesome roguelite ever made. You grow a little vegetable knight, you bonk slugs, you die, your garden remembers you. I meant to play for twenty minutes and it is now dawn."
+r090,g01,wavegarage,23.5,True,7,2025-06-20,1.4 runs smooth as glass now. soundtrack still undefeated.
+r091,g13,foreshadow_hunter,43.0,True,29,2026-06-14,"Second playthrough finished. Knowing the ending, the foreshadowing is everywhere — background dialogue, the clock faces, even the stamps on the case files. It's all there from minute one, hidden in plain sight, and I refuse to say more because you deserve to find it clean. Puzzle difficulty is still spiky (Consultant Mode helps now), but as a piece of writing this is the finest detective fiction in games."
+r092,g07,ng_plus_nancy,9.3,True,7,2025-11-15,"New game plus adds three endings and a secret one hidden behind a formula I won't spoil. Hunting them doubled my playtime, and the sinister-cheerful tone never wears out. The short-game complaints are officially outdated."
+r093,g05,map_button_where,41.0,False,15,2025-05-20,The cash shop button is bigger than the map button. That's the whole review. That's the entire design philosophy in one screenshot.
+r094,g15,wok_this_way,58.3,True,11,2026-07-12,"Wish there was anything past the penthouse floor. You max everything out and the game politely runs out of ideas. Still one of my favorite chill games ever made, hence the thumb up."
+r095,g03,ping_999,56.0,True,24,2025-08-30,"5/5, the desync adds roguelike unpredictability. You never know which deck you're actually standing on, or whether the loot you grabbed exists. Schrodinger's salvage. My friends and I have started betting on whose reality is canon. Thumbs up, I guess."
+r096,g02,cozygrind,14.0,True,6,2023-07-04,"cozy on the outside, crippling addiction on the inside."
+r097,g12,abyssal_completionist,84.0,True,19,2026-05-22,"84 hours, every log collected, new game plus finished after 1.2. Saves have been rock solid since the patch. This is the best survival horror in years and I will not be elaborating on what lives in the Brinefall."
+r098,g10,goatnado_survivor,14.2,True,11,2025-08-21,"The 9.3 Goatnado update is the funniest patch ever shipped. Sixty goats in one tornado, a physics engine audibly begging for death, my fps in the single digits, and I did not care even a little."
+r099,g19,honest_hoagie,26.3,True,8,2025-09-15,Buy this if and only if you have people to play with. Solo mode feels like practicing a wedding dance alone in a garage. With a full couch it is an absolute riot.
+r100,g05,broadside_bros,145.0,True,25,2023-05-14,"Nothing in gaming beats a coordinated broadside. Four of us with roles locked in: helm, sails, cannons, repairs. We chased a rival crew through a storm into the Kraken's Maw event, traded volleys around the whirlpool, and boarded them with two hull planks left. The cash shop is creeping toward pay-for-power and the queues on event nights are grim, but when this game sings, it SINGS."
+r101,g16,refund_speedrun,1.1,False,27,2026-02-13,Fell through the ice four times in the tutorial. Refunded.
+r102,g05,doubloon_doubter,76.0,False,12,2025-06-18,the real treasure was the microtransactions we bought along the way.
+r103,g03,desync_dave,21.0,False,26,2025-03-10,The desync is unreal. My buddy watched me float outside the hull while on my screen I was cutting cargo straps. We sold the same salvage twice and then it vanished for both of us. Great game trapped inside terrible netcode.
+r104,g13,adventure_grump,7.2,False,18,2025-01-20,"Moon logic everywhere. At one point the answer is basically 'combine the stamp with the pigeon' and I refuse to believe anyone solved that unaided. Great prose, exhausting puzzles."
+r105,g18,faithful_farmer,61.2,True,19,2026-04-05,"The Reforged update saved this game. Welcome back, Anvil and Acre."
+r106,g16,FROZEN_AND_FURIOUS,9.8,False,341,2026-02-14,"35 EURO FOR THIS. THE MAIN QUEST BROKE TWO HOURS IN, THE OBJECTIVE MARKER SENT ME TO AN EMPTY IGLOO, AND WHEN I FAST TRAVELED BACK THE ENTIRE VILLAGE WAS T-POSING AT ME LIKE A CULT. THEN I FELL THROUGH THE ICE AND KEPT FALLING. FOREVER. INTO THE VOID. COLDSNAP TESTED NOTHING. DO NOT BUY UNTIL THIS IS FIXED."
+r107,g10,one_evening_wonder,3.6,True,9,2024-09-14,"Great with friends watching, but solo the novelty runs dry fast. I saw basically everything it has in one evening. Fun evening though."
+r108,g02,turnip_tamer,33.0,True,9,2023-09-10,Grandma Bramble is the best first boss in the genre. She knits while she fights you and apologizes when she wins. Also my turnip familiar has a little hat now. Ten out of ten.
+r109,g13,spoiler_vault,14.0,True,21,2024-11-12,"I can't spoil it, but WOW. Go in blind."
+r110,g07,autosum_scream,3.2,True,8,2025-02-28,"Perfect horror-comedy rhythm. It lulls you with a joke about expense categories, then the autosum row starts summing numbers you never entered. I laughed and screamed within the same five seconds. More games should be this confident."
+r111,g09,papercut_prophet,24.0,True,5,2026-04-27,"Bring tissues, and a notebook for directions."
+r112,g18,quiet_quencher,27.4,True,4,2023-04-16,"watered my crops, hammered a sword, felt feelings. perfect game"
+r113,g06,weekend_sysadmin,107.0,True,17,2026-03-30,"I administer servers for a living and now, apparently, for fun. The Cron Reaper boss spawns adds on a real schedule you can read and edit if you're fast enough, which is the cleverest fight design I've seen in years. My wife asked why I was killing processes at midnight and I had to clarify it was recreational. The learning curve filtered out my whole friend group though. I alone remain."
+r114,g17,arcane_accountant,82.1,True,18,2025-10-25,"82 hours in and the writing still surprises me. A banshee formed a tenant union with three skeletons and their list of demands made me cry laughing. Yes, the Mimic Chest exploit still works even after patch 1.2 claimed to fix it, and yes, gold is basically decorative at this point, but I stopped caring. I am here for the letters. Arcane Lease, hire more writers and fire your economist."
+r115,g17,leaselich,47.5,True,25,2025-05-17,"Pros:
+- Sharpest comedy writing in the genre
+- Complaint letters I screenshot and send to friends
+- Evicting a poltergeist is a whole quest line
+
+Cons:
+- Gold stops mattering by week 3
+- Tenant AI walks into walls and occasionally into each other
+- The rent formula appears to be a random number generator"
+r116,g08,vsync_vera,41.0,True,25,2024-11-02,"PSA: if your inputs feel laggy, turn off vsync and cap the framerate in the config file. Went from mushy to instant on my 1660, solid 144fps. Game is a masterpiece once it actually listens to you."
+r117,g10,crumb_collider,4.5,True,26,2025-05-06,9/10 would clip through Mayor Crumb again. Docked one point: he clipped through me first.
+r118,g20,quiet_thinker,12.5,True,3,2024-12-08,Chess energy. My brain hums after every mission.
+r119,g14,one_button_bored,8.6,False,16,2025-06-15,"Combat is mashing one button against the same three chrome aphids, over and over. The farming half is lovely, but half a game is exactly what this is."
+r120,g14,verdigris_veteran,210.0,True,22,2026-04-12,"210 hours. The endgame is thin and I've automated almost everything, but the ritual keeps pulling me back — morning rounds in the mech, checking mutation crops from the Harvest Protocol update, rain on the hull. The new weather system genuinely changed how I plan my seasons. Combat still needs a real rework and the roadmap is behind, but this is my comfort game and I've accepted it."
+r121,g04,laptop_lava,22.0,False,6,2025-08-15,"my laptop sounds like a trebuchet winding up whenever i load my big castle. 12 fps in the courtyard, 40 in an empty feild. love the game, cant actualy play the game"
+r122,g12,breathing_walls,11.0,True,9,2025-09-27,i heard something breathe behind me and unplugged my headphones. masterpiece.
+r123,g13,four_seventeen,22.0,True,27,2025-02-14,The moment the 4:17 loop structure clicks and you realize what the game has been doing the whole time — chills. Actual chills. Smartest structure in the genre.
+r124,g12,budget_build_ben,3.4,False,31,2025-03-28,My 8GB card chokes hard — 22fps on medium at 1080p with VRAM pegged the entire time. A 3070 should not be struggling like this in corridors. Wait for optimization.
+r125,g10,ferris_wheel_felon,11.0,True,41,2024-07-30,"Strapped a jetpack to my goat, crashed a wedding, got the bride's bouquet stuck to my tongue, dragged the entire buffet table up the ferris wheel, and then the ragdoll physics flung me three districts away into an open manhole. The game gave me an achievement called 'Uninvited'. I have not laughed this hard at a screen in years. It is deeply stupid and I love it."
+r126,g17,duct_tape_dev,11.3,False,7,2026-06-18,Great jokes stapled to an economy made of wet cardboard.
+r127,g03,lostcargo_lena,31.0,False,19,2025-09-19,"Session died during the final haul of a three-hour run and the game kept nothing. No reconnect, no recovery, just a menu screen and my crew groaning on voice chat. Until they fix connection stability, wait."
+r128,g09,cello_ghost,22.5,True,6,2025-09-01,the gloaming at dusk with the cello theme. i wept. actually wept.
+r129,g14,diesel_daisy,31.0,True,26,2025-05-02,"Piloting a 40-ton mech to gently water tomato rows should not work as a concept, and yet it's the most relaxing thing I've played all year. Iron Petal understood something the rest of us didn't."
+r130,g19,sub_zero_sub,9.6,True,1,2025-11-09,Nine euro for this much screaming is a bargain.
+r131,g10,bored_bovid,4.2,False,12,2024-06-08,Everything funny happens in the first two hours. After that it's an empty sandbox and you realize the jokes were the whole game. There's no there there.
+r132,g08,analog_andy,4.7,False,11,2024-02-14,"The analog stick deadzone is all wrong. Tiny movements get ignored, then it suddenly registers full tilt — in a game about millimeter-perfect jumps that's fatal. The 1.4.2 beta patch improved it slightly, but it still feels like steering a shopping cart."
+r133,g12,hydrophone_hermit,27.0,True,45,2025-05-15,"Wear headphones. The sound design is the best I have ever heard — the hull groans, the distant sonar returns, the wet clicking the anglerkin make when they're close. There's a chase through Deck C of the Meridian that I had to pause halfway through just to breathe. The scariest game of the decade when it works, and it mostly works."
+r134,g08,gauntlet_glenn,48.6,True,5,2025-02-27,The Slingshot Gauntlet is the best platforming level ever made. Fight me.
+r135,g19,lone_lettuce,3.0,False,6,2025-07-21,Solo mode is a snoozefest. The fun only exists in multiplayer.
+r136,g19,friendship_ruiner,61.4,True,29,2025-08-24,"Terrible game. It has ruined three friendships, my sister no longer speaks to me after the mustard incident, and we have played every single Friday for four months straight. Absolutely do not buy it. Five stars, thumbs up."
+r137,g11,turing_test_ted,23.0,False,21,2023-11-08,"Lobby full of bots. Sixty of my 99 opponents moved instantly with zero blunders until they all collapsed on cue, and then the same three usernames show up in every real match. The player count is smoke and mirrors."
+r138,g12,zone_hitch,6.9,False,11,2025-11-20,"Genuinely great horror, but I can't recommend it until they optimize. There's a massive hitch every time you cross into a new zone — nothing kills terror like a two-second freeze mid-chase."
+r139,g12,certified_coward,0.9,True,33,2025-04-30,0.9 hours played. Refunded. Not because it's bad — because I'm a coward.
+r140,g01,ClutchKickCarla,52.0,True,14,2024-11-30,"Great racing, gorgeous neon rain effects, and the drifting feels like butter on Sunset Loop. Only gripe is the rubber-band AI. You can drive a perfect race and second place still magnetizes to your bumper on the final straight."
+r141,g08,couch_gamer_carl,2.1,False,9,2025-07-11,"Keyboard only, sadly. Two years on and pad support is still half-broken."
+r142,g10,qa_goat,7.7,True,18,2025-01-25,"Bug report: goat clips through the town hall, physics explode, save intact, dignity gone. Dev response in the patch notes: 'working as intended'. Bless Chaos Pasture. Never change."
+r143,g12,pressure_hull_poet,24.0,True,16,2025-12-05,"The story is told mostly through the Meridian's logs and it's quietly devastating — a crew that knew what was coming and wrote letters anyway. The dread here isn't jump scares, it's pressure: the hull, the dark, the fuel gauge on the dive suit. Few games commit to an atmosphere this completely. Buy a VRAM-rich GPU first, though."
+r144,g09,lumen_seeker,34.0,True,52,2025-04-03,"I don't cry at games. I cried at this one. Every frame of the hand-drawn art looks like it took someone a week, the Wax Cathedral is the most beautiful area I've seen in the genre, and the score — this quiet, aching cello thing — follows you around like a second character. The final hour broke me. Some map frustrations aside, an absolute triumph."
+r145,g15,noodle_gremlin,41.5,True,18,2023-09-02,One more shift turned into 3am again. This game is dangerously addictive and I refuse to apologize for my behavior.
+r146,g18,silence_smith,203.1,False,36,2026-01-15,"Radio silence from the developers for over a year now. No patches, no posts, nothing. I cannot in good conscience tell anyone to buy into what looks like abandonware, no matter how good the forging feels."
+r147,g09,hollow_wanderer,30.0,True,9,2025-10-05,"I spent more time lost than fighting. The in-game map looks like abstract art — beautiful, useless. Recommended anyway, because everything else is close to perfect."
+r148,g05,crews_control,24.0,True,5,2026-06-30,"New player here with a crew of friends, honestly having a blast without paying a cent. Yes, the veterans are right about the shop, you feel it in PvP. But casual ship battles with your mates? Still genuinely special."
+r149,g02,quietbloom,132.0,True,29,2025-09-14,"I picked this up during a rough patch of my life and it was exactly what I needed. Nothing in it is cruel. You lose a run and the game plants a memorial flower where you fell. I've since beaten everything, hit the late-game grind wall everyone mentions, and I still log in just to water things. The inventory could be bigger. The heart could not."
+r150,g06,student_la_poli,38.0,True,9,2025-12-12,"sincer m-a invatat pipe-uri si redirectari mai bine decat laboratorul de la facultate. nu are tutorial deloc si primele ore sunt crunte, dar cand iti iese primul one-liner care curata tot etajul... satisfactie maxima. il recomand la toti colegii"
+r151,g18,barnfresh,8.1,True,2,2026-06-30,Bought it right after the big 2.0 update. Zero regrets.
+r152,g08,thumbstick_theo,1.2,False,22,2023-08-15,"Refunded. My gamepad straight up isn't detected — tried two different pads, replugged, restarted, nothing. The forums are full of the same complaint. A precision platformer on keyboard is not what I paid for."
+r153,g15,eggtimer_ela,3.4,True,1,2026-05-20,"Bought it at lunch, missed two meetings. 10/10."
+r154,g11,sahist_suparat,18.0,False,9,2024-07-14,"Ideea e geniala, sah cu 100 de oameni pe aceeasi tabla uriasa, ce sa zic. Dar la fiecare doua meciuri dau peste unul care joaca clar cu motor, muta in doua secunde si numai mutari perfecte. Plus ca matchmaking-ul m-a bagat cu unul de rating 2400 cand eu abia stiu deschiderile. Pacat, chiar pacat."
+r155,g19,bread_believer,15.7,True,2,2025-12-03,me and the boys yelling about pastrami for six hours straight. goty
+r156,g17,lowercase_mage,6.5,True,2,2024-08-19,rented a swamp to a frog wizard and he sued me. game of the year
+r157,g15,broth_veteran,310.0,True,61,2026-02-08,"310 hours. I have memorized every ticket chime. Is it repetitive once you clear floor 30? Sure. Do I care? The lo-fi hits, the noodles fly, I am at peace."
+r158,g05,boarded_by_wallets,67.0,False,18,2025-04-02,Skill stopped mattering the day stat gear hit the shop. We got boarded by wallet warriors in gilded armor doing double damage and shrugging off ours. We were better sailors. They were better spenders. Guess who won.
+r159,g14,glowberry_gardener,54.0,True,31,2025-07-28,"My evening routine now: clock off work, boot up, stomp the Trowel-9 out to the glowberry field, harvest while the sun sets over Verdigris Valley, listen to the rain start on the cockpit glass. That's it. That's the game. There's combat in there somewhere too, and it's fine, whatever — I'm here to be a giant robot with a watering can and be at peace."
+r160,g06,rm_rf_freetime,83.0,True,13,2026-02-14,sudo rm -rf my free time.
+r161,g15,TonkotsuTruther,52.0,True,14,2024-08-03,"Late game is literally Midnight Miso, Neon Tonkotsu and Spicy Sunrise on rotation forever. Same three recipes on loop until the heat death of the universe. Love the game, but my hands are on autopilot now."
+r162,g11,caffeine_castle,44.0,True,7,2025-01-29,"free, brilliant, infuriating. the holy trinity."
+r163,g01,lastlap_larry,26.0,False,16,2025-01-10,"The AI doesn't race, it teleports. You can lead by six seconds and the pack will still appear in your mirrors on the last lap like a horror movie. Rubber-banding this aggressive makes clean driving pointless."
+r164,g03,moonwalk_mike,8.5,False,11,2025-06-08,rubber-banding so bad my character moonwalked through the airlock and into next week.
+r165,g02,wintersale_victim,71.0,True,13,2024-12-25,"got it in the winter sale, lost the entire winter."
+r166,g10,tongue_physics,1.9,True,22,2024-10-11,i licked a car and draged it into the sea. game of the yaer
+r167,g19,party_planner_pia,21.0,True,4,2026-05-05,"Bought four copies for game night and it paid for itself in one evening. Simple to learn, impossible to play with dignity. The sandwich physics alone justify the price tag."
+r168,g17,cozy_conjurer,39.8,True,10,2026-01-09,"Perfect evening game. Collect rent, read letters, laugh out loud, renovate a haunted attic, repeat. For 13.99 you get more genuine laughs than most comedy specials."
+r169,g12,hallway_hoverer,14.0,True,12,2025-07-19,"Played with every light in my flat on and a friend on voice call for moral support. Still had to stop every twenty minutes. Incredible game, hostile to my heart rate."
+r170,g04,siege_the_day,76.0,True,19,2025-02-14,"Nobody talks about the siege testing mode enough. You finish your castle, then the game hands you catapults and lets you find out whether your design was clever or merely decorative. My east tower folded like wet parchment because I'd skimped on foundations, and the collapse rippled exactly where the load paths said it should. This is an engineering toy wearing a castle costume and I adore it."
+r171,g07,demo_price_tag,2.0,False,16,2025-01-30,two hours long. that's a demo with a price tag.
+r172,g14,post_shift_pilot,25.0,True,7,2026-05-25,"The game I play after work to feel like a person again. Cheaper than a therapist, and the tomatoes don't judge me."
+r173,g17,no_challenge_ned,25.0,False,12,2025-07-04,"Once you crack the economy, and that takes about one in-game week, there is no challenge left. Currency loses all meaning and every decision becomes purely cosmetic. This needed a hard mode a year ago."
+r174,g03,wreck_diver_wes,6.2,False,10,2025-05-02,bought it for co-op night. we spent the evening staring at the reconnect screen.
+r175,g06,man_page_meta,47.0,True,8,2026-07-01,finally a game where reading the man page is the meta.
+r176,g17,imp_watcher,30.8,True,8,2024-11-30,"My imp tenants spend rent day walking face first into the same wall for hours. The pathfinding is a crime scene. Still funny though, one of them has worn a visible groove into the plaster."
+r177,g10,gravity_optional,6.4,True,15,2024-04-15,"Clipped through Mayor Crumb, got launched clean over Bleatsburg, landed in the trampoline church, achievement popped. This game understands what games are for."
+r178,g02,compost_connoisseur,67.0,True,10,2025-07-09,"The Compost King fight is a masterpiece, a giant grump made of everything you discarded during the run. Died to my own banana peels. The 2.1 update's bigger inventory fixed my main gripe too."
+r179,g20,null_warden_main,98.2,True,17,2025-12-19,"The unit roster is a toybox for sickos. My Null Warden erases enemy echoes while the Chronomancer replays her own turn from two rounds ago, and stacking those two won me a match I had mathematically lost. The campaign difficulty curve is perfect and the weekly puzzle missions are genius. Base roster is thin though, the really good stuff hides in DLC packs."
+r180,g10,sandbox_skeptic,5.1,False,14,2024-08-03,"A mile wide and an inch deep. No goals, no progression, no reason to come back once the chaos stops being surprising — and it stops surprising you around hour three."
+r181,g14,stomp_nap,19.0,True,6,2025-08-30,plant. stomp. nap. repeat. best routine in gaming
+r182,g01,apexghost77,34.2,True,21,2024-08-02,"The drift handling is the best I've felt in an arcade racer. You feather the throttle, the back end swings out, and the synthwave beat drops right as you hit the apex on Chromatic Bay. Velocity Forge understood the assignment."
+r183,g18,patience_expired,142.5,False,23,2025-12-18,I defended this game for months but I am done waiting. The promised ranching update is over a year late and the devs have not said a single word since last winter. Uninstalling until they remember we exist.
+r184,g19,solo_sadness,4.2,False,17,2025-06-02,"Played alone and there is just nothing here. An empty score chase, no story, barely any progression. This game without friends is a sandwich without bread."
+r185,g07,fiscal_fear_fan,6.8,True,17,2025-10-31,"Came back for the free Fiscal Year of Fear chapter and it finally makes the runtime feel fair. The year-end audit sequence is the scariest thing I've played in 2025, and I mean the horror parts, not just the audit itself."
+r186,g18,ghosttown_gardener,156.3,True,28,2025-11-27,"The roadmap is a ghost town and the last dev post was a pumpkin emoji in January. I adore this game, 156 hours says so, but somebody please go check on Anvil and Acre."
+r187,g18,anvil_lifer,612.0,True,74,2025-10-14,"612 hours since launch. This game taught my kid crop rotation and taught me patience. The farming and forging loop is still unmatched. The problem: total dev silence. No patch since January 2025, the official roadmap page literally 404s now, and the community channel is a tumbleweed farm. I still recommend it for the mountain of content that exists, but my heart is getting nervous."
+r188,g12,ticket_no_reply,8.1,False,18,2025-08-08,"Save file vanished after a crash on Deck C. My support ticket has been open for three weeks with no reply. The game is scary, losing eight hours is scarier."
+r189,g07,accountant_ama,4.1,True,21,2025-06-06,accountants: this is a documentary.
+r190,g03,o2_optional,45.0,True,13,2025-07-11,"The sound design deserves an award. When your oxygen line snags and the hiss starts, and your friends' voices tip from jokes into panic, that's real fear. Solo it's decent, with three friends it's unforgettable."
+r191,g05,daily_quest_dropout,210.0,False,27,2024-06-25,The Sea Serpent pass turned my hobby into a shift job. Miss two days of streak quests and the tier math means you'll never finish without paying. I sailed for fun once. Now I clock in. No thanks.
+r192,g11,rook_and_roll,87.0,True,34,2023-07-19,Chess but it's a 100-player knife fight. Watching two top-tier players slug it out in the final circle while 98 ghosts spectate is genuinely the best moment in games right now. Concept of the decade.
+r193,g16,second_chance_sam,55.6,True,21,2026-07-09,"Came back after the review bombing calmed down. The 1.1 patch fixed the corrupted markers and I have not fallen through the ice once in twenty hours. Still rough around the edges, but the turnaround is real."
+r194,g14,vaporware_valley,22.0,False,38,2026-03-05,"Truly visionary studio. Lesser devs deliver features — Iron Petal delivers announcements of features. Raid Blooms has been 'coming next season' for three consecutive seasons, which for a farming game I assume is intentional comedy. The roadmap is the longest-growing crop in the game. Inspirational, really. 11/10."
+r195,g17,chuckle_warlock,9.4,True,4,2024-07-15,The tenant complaint letters alone are worth 14 euro.
+r196,g01,slipstream_sue,30.0,True,4,2024-10-05,"Runs at a locked 144 fps on my four-year-old Vortex 3600, looks like a neon fever dream, and the drift chaining on Chromatic Bay never gets old. Easy recommendation at this price."
+r197,g20,echo_addict,23.9,True,2,2025-05-16,Every turn is a puzzle. Believe the hype.
+r198,g18,seasonal_sal,33.9,True,7,2023-09-12,"The autumn festival made me tear up a little. Farm and Forge understands coziness on a level most games never reach, and the forging minigame has real depth. My hammer timing has become a personality trait."
+r199,g02,pixelpetunia,44.0,True,7,2026-01-05,Three years after release and Tiny Cauldron still ships free content updates with handwritten patch notes. This studio deserves every euro. The game remains the coziest possible way to ruin a sleep schedule.
+r200,g15,mirceapofta,33.5,True,8,2025-06-14,"Joc perfect dupa o zi lunga la birou. Pui muzica lo-fi, faci un Midnight Miso, servesti trei clienti grabiti si uiti de toate. Merita banii lejer, poate devine putin repetitiv dupa etajul 30, dar sincer nu ma deranjeaza deloc."
+r201,g01,HairpinHera,61.0,False,27,2025-03-05,"I was 40 hours in and hosting weekly time-trial nights with my club. Since the update the game freezes mid-race, always on Midnight Interchange, always around the tunnel section. Screen locks up, the music keeps playing, then nothing. I've lost three tournament runs to this. The driving underneath is still fantastic, which somehow makes it worse. Fix it and I'll flip this review."
+r202,g09,cartography_crow,41.0,True,21,2025-06-20,"Fair warning: the map is genuinely confusing and you will get lost in the early hours. Push through anyway. Once the world finally clicks into place in your head, this becomes something special."
+r203,g03,budget_astronaut,12.0,True,9,2025-04-02,friend pass means my whole squad plays on one copy. based devs.
+r204,g14,wet_paper_warrior,15.0,False,13,2026-01-18,The farming is 10/10. The fighting is a wet paper towel.
+r205,g11,eval_bar_victim,8.4,False,12,2025-09-05,"Queued at rank 3, got dismantled by someone who was streaming with an eval bar open on their second monitor. Reported them a week ago. They're still in my lobbies."
+r206,g14,rain_on_the_hull,29.0,True,10,2026-06-19,"The rain sound on the cockpit hull deserves its own award. Cozy is an overused word, but this game earned it. Just don't come here for the combat."
+r207,g20,grandmaster_grid,132.4,True,44,2025-02-10,"The deepest tactics system in years, full stop. Echo positioning means every unit's past turns literally haunt the battlefield, so you are playing against your own history as much as the enemy. Every turn is a puzzle with three wrong answers and one beautiful one. I have 132 hours and I am still discovering interactions. Thinky players, this is your game."
+r208,g10,chewing_gum_chaos,2.8,True,7,2024-05-20,Physics engine held together with chewing gum and dreams. Perfect.
+r209,g05,shanty_singer,34.0,False,8,2024-07-10,"free to play, pay to win, hard to quit, uninstalled anyway."
+r210,g10,ram_jam_2000,3.1,True,29,2024-04-02,Headbutted a funeral procession into the stratosphere. 10/10.
+r211,g09,somnorosul_99,26.0,True,7,2025-11-16,"Cea mai frumoasa grafica pe care am vazut-o intr-un joc de genul asta. M-am ratacit vreo doua ore in Cinder Hollow ca harta e praf, dar sincer nici nu m-am suparat. Muzica m-a facut sa plang, pe bune. Il recomand cu incredere."
+r212,g20,tactician_dorel,54.5,True,9,2026-04-12,"Cel mai bun joc de tactica pe ture din ultimii ani, pe bune, fiecare tura e un puzzle. Singura problema mare: loading-urile sunt lungi rau de tot, si asta pe SSD nou. Astept sa repare, dar il recomand oricum cu incredere."
+r213,g01,GhostlapGary,88.0,True,45,2025-04-18,"Pros:
+- drift model with actual weight transfer, best in class
+- synthwave soundtrack I now listen to while jogging
+- track variety, Harbor Straight at night is art
+
+Cons:
+- since 1.3 the game locks up between races about once an hour
+- rubber-band AI on Expert is insulting
+- photo mode crops replays weird
+
+Recommended, but wait for the stability patch if you're on the fence."
+r214,g05,three_week_sail,118.0,False,31,2025-08-08,"As a free player I grinded three weeks for the storm sails. A whale buys them in three seconds with gems and gets the stat variant, which I literally cannot earn. That's not free to play, that's a demo of someone else's game."
+r215,g18,theyre_back_barb,118.9,True,57,2026-03-20,"THEY'RE BACK. The Reforged update dropped out of nowhere and it is massive: Mythril tier, frostwheat, a whole ranching system. I owe the doomposters an apology, myself included."
+r216,g05,cosmetic_defeat,89.0,True,44,2024-09-01,"10/10 best credit card simulator on the seven seas. My ship is cosmetic, my defeats are not. Love queueing into a galleon whose sails cost more than my monitor. Truly the authentic experience of being robbed by pirates."
+r217,g03,scrapbaron,68.0,True,12,2026-06-21,"Sixty-plus hours in. Ship upgrades give real progression, the friend pass keeps my rotating crew stocked, and post-overhaul the lag spikes are rare. Docking a fully upgraded hauler stuffed with contraband while the station scans you is peak tension."
+r218,g19,wobbly_wife_guy,40.2,True,5,2025-10-12,"Heads up: the default camera shake made my wife queasy within minutes. The 1.1 patch added a toggle buried in accessibility settings, turn it off and the problem disappears completely. After that, flawless party game."
+r219,g11,knight_owl_gm,31.0,True,16,2024-03-03,Winning a 1v1 in the final circle with 97 people spectating is peak human experience.
+r220,g03,patchnotesreader,90.0,True,16,2026-01-17,"The January netcode overhaul actually delivered. Movement is server-side now, rubber-banding is mostly gone, and we survived a host crash with the new reconnect. Still the odd lag spike, but it's night and day compared to launch."
+r221,g09,backtrack_burnout,11.2,False,17,2025-05-30,"Wandered the same three corridors of Cinder Hollow for 40 minutes because the map tells you nothing. No fast travel until absurdly late, so every wrong turn costs ten minutes of backtracking. Gorgeous game, miserable navigation."
+r222,g19,queasy_quitter,0.8,False,11,2025-05-30,"Refunded. The camera whips around every time you sprint between stations and within twenty minutes I was genuinely nauseous. No FOV slider, no camera smoothing at launch. My stomach wrote this review."
+r223,g15,chashu_charlie,67.9,True,27,2024-10-11,"Pros:
+- Addictive shift loop that eats whole evenings
+- Lo-fi soundtrack is a warm blanket
+- 11.99 is a steal
+
+Cons:
+- Progression flatlines around floor 30
+- Recipe variety runs out long before you do
+- The rooftop cat cannot be petted (patch this in, Broth Bros)"
+r224,g11,endgame_enjoyer,156.0,True,47,2024-01-12,"The shrinking board is a stroke of genius. As the circle closes, entire files just fall into the void, and suddenly your careful positional setup means nothing because the d-file no longer exists. The late game becomes a desperate three-board scramble where a pawn is worth more than a queen was five minutes ago. Matchmaking needs work and cheaters exist, but the core design deserves every award."
+r225,g02,InventoryTetris,58.0,False,25,2024-10-02,"The game showers you with forty seed types and gives you twelve inventory slots. Late game is a grind tunnel where every reward is a duplicate. I adore the art and the vibe, but my patience finally composted."
+r226,g18,harvest_hana,48.6,True,12,2022-11-03,"The loop is perfect: grow it, smelt it, smith it, sell it, upgrade the farm, repeat. Forging your own scythe from ore you mined under your own turnip field is the kind of loop other games dream about. The seasonal festivals are lovely, the mine gets surprisingly spooky, and the soundtrack changes with the weather. An instant classic."
+r227,g08,git_gud_gerbil,112.0,True,19,2024-06-10,"Everyone calling it unfair is telling on themselves. Every hazard is telegraphed, every death has a lesson, and the physics never once betrayed me in 100+ hours. Hardest game I own and also the most honest one."
+r228,g06,wiki_tab_warrior,1.4,False,10,2025-10-10,"Refunded. Alt-tabbing to a community wiki every forty seconds is not gameplay, it's homework. There is zero onboarding for anyone who doesn't already live in a terminal. Knowing your audience is fine, but a single practice room would have kept me."
+r229,g14,flower_box_mech,17.0,True,11,2025-09-12,My mech has a flower box mounted on its shoulder cannon. GOTY.
+r230,g15,floor30_refugee,88.2,True,31,2024-05-22,"The loop is genuinely hypnotic, upgrade the stove, unlock a floor, chase a perfect service. But once you hit floor 30 the game just stops. No new customers, no new stations, no reason to open the shop tomorrow. I kept playing out of habit for twenty more hours hoping something would happen. Nothing did. Still recommending because those first sixty hours were incredible, but Broth Bros needs to build an actual endgame."
+r231,g03,solo_no_more,62.0,True,8,2025-11-02,"do not play this solo. i mean it. i spent 20 hours alone and thought it was mid, then two friends joined and it instantly became my game of the year. the anemone wreck at night, full crew, no music, just breathing. cinema"
+r232,g17,cryptkeeper_karen,21.7,True,16,2024-06-10,A lich filed a complaint letter about the crypt being too damp for his scrolls and offered to pay rent in cursed bone china. The writing is untouchable. Funniest game I have played in years.
+r233,g20,loading_screen_larry,19.8,False,20,2025-07-14,"My loading screens last longer than my turns. Ninety seconds into a mission, on an SSD, in a turn based game. I have read every loading screen tip twice by now. Fix the tech, then we can talk."
+r234,g18,hoe_there,14.8,True,3,2022-08-21,Cozy farming plus blacksmithing. Instantly comfortable.
+r235,g14,roadmap_watcher,40.0,False,44,2026-07-15,"The roadmap promised Co-op Greenhouses for autumn 2025. It is now July 2026. Raid Blooms: also missing. I love this game, which is exactly why I'm reviewing it down until Iron Petal delivers what the store page promised."
+r236,g01,sundaydriver_dan,9.7,True,3,2024-12-24,"bought it for the drifting, stayed for the synthwave."
+r237,g04,gatehouse_gabe,18.0,True,7,2024-08-08,knocked down my own gatehouse just to watch it crumble. worth every euro.
+r238,g07,macro_seance_fan,5.6,True,38,2024-12-13,"The macro seance is an all-timer sequence: you record a macro to contact the intern who never logged off, and the game plays it back with one extra keystroke you didn't make. I yelped, then laughed, then checked my own spreadsheets for macros I don't remember writing. The VLOOKUP demon that follows you between sheets is great too. Yes, it's barely two hours long. I'm expensing my therapy anyway."
+r239,g18,abandonware_alarm,95.0,False,26,2026-02-27,"Last patch was January 2025. Is this abandonware? Genuine question. Steam says the devs were last seen online sometime in the Cretaceous. Wonderful game, dead project."
+r240,g16,patient_prospector,22.4,True,40,2026-02-20,"Underneath the jank is the most ambitious survival game I have played this decade. A living glacier that shifts every in-game week, dynamic frostbite, settlements that migrate when the ice cracks. Yes it is broken. Yes I recommend it anyway, the way you recommend a brilliant friend who is going through something. In a year this will be a masterpiece."
+r241,g19,deli_dasher,11.9,True,3,2025-04-19,Pure chaos. My friends are liabilities and I love them.
+r242,g14,petal_to_the_metal,27.0,True,12,2025-10-10,"Adore the vibe, but let's be honest, the combat is an afterthought — enemies wander vaguely at you and evaporate. I'm hoping a patch gives it teeth. Everything else is a warm blanket."
+r243,g11,fifty_move_grind,98.0,True,39,2025-06-18,"Pros:
+- Best strategy concept in years, period
+- Final circles are pure adrenaline
+- Genuinely free, no pay-to-win
+
+Cons:
+- Engine users survive every ban wave
+- Low-rank lobbies padded with obvious bots
+- Matchmaking pairs rank 2s with veterans
+- Cosmetic grind is glacial
+
+The knife-fight chess dream is real, it just needs a security team."
+r244,g03,packet_ghost,27.0,True,6,2026-04-05,"atmosphere immaculate, netcode haunted. bring friends and lower your ping expectations."
+r245,g15,budget_broth,19.3,True,5,2023-08-09,For 12 euro this is absurd value. Runs on my ancient GTX 1050 laptop at a locked 60fps. Perfect little management game for people with bad computers and good taste.
+r246,g10,empty_pasture,8.9,False,16,2025-02-07,"Hot take: the bugs being the content is exactly the problem. Once the trampoline church stops being funny — and it does — there's no game underneath. No progression, no escalation, just the same ragdoll punchline with different props. I kept playing hoping for depth that never came. Comedy games still need to be games."
+r247,g13,dev_mind_reader,5.1,False,14,2025-11-03,"The puzzles don't want you to think, they want you to read the developer's mind. Bounced off after the third arbitrary roadblock. The writing deserved better puzzle design."
+r248,g15,ramen_papa_88,24.1,True,4,2023-12-05,"realy good managment game, teh customers get crazy on floor 15+ and i love it. soundtrak is amazing, definately recomend to anyone who likes cooking games"
+r249,g17,golem_stuck_again,35.4,False,14,2025-12-02,"Tenant AI is genuinely dumb. My stone golem has been standing in the courtyard fountain for six in-game months and the imps queue single file into a decorative wall. Immersion, gone. Charm only carries it so far."
+r250,g01,turbo_tomasz,28.4,False,33,2025-02-20,"Loved this game until patch 1.3. Now it crashes to desktop every second or third race, usually right when I'm about to set a personal best. Not touching it again until they fix it."
+r251,g08,comet_snacker,38.2,True,14,2023-09-02,"The physics here are absurdly good. Momentum carries exactly how your brain expects, so every splat is 100% your fault. Beat the Tidal Locks after two evenings of pure stubbornness and felt like a genius. Just one more try, forever."
+r252,g04,radial_menu_victim,63.0,True,9,2025-04-27,"The build menu fights you constantly. Doors are buried two submenus deep, the radial wheel forgets your last pick, and rebinding barely works. I recommend the game anyway, because what you can make with it is worth the wrestling."
+r253,g09,relit_lantern,71.0,True,38,2026-05-30,"Second full playthrough, this time after update 1.1, and what a difference — map pins, a cleaner legend, and the first bench-warp moved several hours earlier. The getting-lost problem people complain about is basically solved now. Which means the only thing left is a heartbreak of a story, art you'll screenshot constantly, and a score I still listen to while working. Play it now if the map scared you off at launch."
+r254,g01,vinyl_and_vram,6.8,True,9,2024-09-15,the soundtrack alone is worth the twenty euros. everything else is a bonus.
+r255,g09,sequence_breaker,58.0,True,26,2026-02-19,"As someone who has finished basically every metroidvania worth playing: the movement kit here is top three ever. The Chandler fight forces you to use every tool you've unlocked and it's glorious. Ability gating is smart, secrets reward genuine curiosity, and yes, you can break the intended route in at least four places. The map deserved another design pass, but the world underneath it is exceptional."
+r256,g07,one_evening_wonder,3.0,True,6,2026-04-12,"over in one evening, quoted at my office for a year."
+r257,g04,drawbridge_dreamer,120.0,True,41,2024-11-12,"Pros:
+- total creative freedom, if you can draw it you can build it
+- collapse physics that turn every siege into a demolition documentary
+- the contract campaign has genuinely funny writing
+
+Cons:
+- stutters hard once builds get ambitious
+- UI needs four clicks to place a single door
+- no blueprint sharing yet
+
+Recommended if your patience is as sturdy as your walls."
+r258,g06,cv_padding_pro,52.0,True,19,2025-09-25,i put this game on my CV under skills. got the job.
+r259,g14,two_player_patience,44.0,True,8,2026-02-22,"My partner watches me play every night and we've named every crop plot. Would be a 10 if the promised co-op actually existed so she could join. Still waiting, Iron Petal."
+r260,g03,salvage_squad_lead,74.0,True,32,2025-05-20,"Our Friday crew has cleared every wreck in the game and we love it, but you need to know about host migration: there isn't any, functionally. If the host's game closes, the session evaporates and everyone loses the haul. We solved it by making the guy with fiber internet the permanent host. That is not a real solution, Orbital Labs. Still recommended, because nothing else scratches this itch."
+r261,g07,f13_survivor,2.1,True,9,2024-10-15,i will never trust cell F13 again.
+r262,g04,bailey_bottleneck,48.0,False,16,2025-03-19,"The stuttering is rhythmic at this point. Every time thirty peasants pathfind through the bailey at shift change, the game hiccups like it saw a ghost. Waited two patches for a fix, still juddering, thumb stays down."
+r263,g17,mimic_flipper,64.3,True,39,2024-09-22,"Found the gold duplication trick by accident: sell a Mimic Chest to the pawn imp, buy it back, and it spits out double the coins every single time. By week 3 money completely stops mattering and the game becomes a joke dispenser. A very good joke dispenser, to be fair, so thumbs up, but the economy needs an actual patch and not vibes."
+r264,g01,chromaburn,112.0,True,11,2026-03-15,"A year later and I still boot it up almost daily. Post-1.4 it's rock solid, the seasonal time trials keep it fresh, and I hold the Sunset Loop lap record among my friends, which they will never hear the end of."
+r265,g06,tab_complete_speed,91.0,True,11,2026-05-05,"Found the tab-completion artifact on floor six and my runs got forty percent faster overnight. Speedrunning this game is typing practice with a body count. The no-tutorial complaints are fair, but the depth underneath is absurd."
+r266,g12,CAPSLOCK_CASTAWAY,9.8,False,88,2025-04-11,LOST SIX HOURS OF PROGRESS BECAUSE THE AUTOSAVE ATE MY RUN AT THE BRINEFALL. SIX. HOURS. THE FILE JUST SAYS 'DATA CORRUPTED'. I FOUGHT THE TIDEWALKER WITH ONE FLARE AND A PRAYER AND THE GAME COULD NOT BE BOTHERED TO REMEMBER IT. FIX YOUR SAVE SYSTEM BEFORE YOU SELL A HORROR GAME. THE REAL HORROR IS THE SAVE MENU.
+r267,g20,roster_robbed,31.6,False,18,2026-02-23,Base game ships with twelve units and the balance patch notes casually discuss units I do not even own. Half the depth costs extra. Quiet Signal makes brilliant games and hostile storefronts.
+r268,g09,vinyl_moth,18.0,True,10,2025-12-12,Bought the soundtrack before I even finished the game. The composer deserves every award that exists. The game attached to the music is also incredible.
+r269,g20,nvme_nick,45.1,True,12,2025-03-29,45 second loads into every skirmish on a Samsung 980 Pro. An NVMe drive should not feel like a cassette tape. The game itself is superb once it finally lets you in.
+r270,g17,rentmath_rob,17.2,False,21,2025-02-08,The rent numbers make zero sense. A goblin in a broom closet pays 4000 gold a week while my dragon penthouse tenant pays 12. Twelve. The whole economy is held together with duct tape and jokes.
+r271,g04,stone_by_stone,84.0,True,14,2025-06-06,"The May optimization patch roughly doubled my frame rate in big builds. It still dips when a wall comes down, but my thousand-piece citadel is finally playable instead of a screensaver. Faith restored, thumb flipped."
+r272,g04,slideshow_sam,9.0,False,12,2025-01-25,"optimization is nonexistent. gorgeous castle, beautiful slideshow."
+r273,g12,second_dive,39.0,True,57,2026-02-09,"Bought at launch, lost two runs to corrupted saves, shelved it in anger. Came back after patch 1.2 in January and it's a different game — thirty hours since, zero save issues, and they even added manual save slots as backup. Finally finished it. The Brinefall sequence is the best horror set piece I've ever played, full stop. If the save bug scared you off, it's safe to come back down."
+r274,g13,couch_detectives,21.0,True,9,2025-09-22,"My partner and I play it together on the couch, arguing about suspects like an old married detective duo. We only needed a guide once, for the tram timetable. There is no hint system whatsoever, so bring a second brain."
+r275,g20,done_waiting_dana,62.0,False,30,2026-07-03,"62 hours, uninstalling with regret. Two things broke me: sitting through minute long loads between every skirmish on a brand new SSD, and watching the ranked meta drift toward DLC units I refuse to buy on principle. The core design deserves a monument. The product wrapped around it deserves a refund. When loads are fixed and units are earnable, I will return."
+r276,g13,silent_credits,16.0,True,13,2025-06-27,Solved the case at 2am and just sat there in the dark afterwards. No game has ever done that to me before.
+r277,g12,twice_bitten,12.3,False,26,2025-06-02,Corrupted save at hour twelve. Twice. I'm done.
+r278,g04,tapestry_tactician,53.0,True,11,2026-05-10,"Discovered that a tapestry was the only thing holding up my banquet hall. Removed it during redecorating, the ceiling followed, and forty peasants filed a complaint. The physics engine is the best comedian in games right now."
+r279,g04,nova_x2_owner,37.0,False,22,2024-09-30,"I get 15 fps standing in my own throne room. This is on a Nova X2 with 16 gigs of RAM, not some potato. There's no excuse for a building game where building things is the performance problem."
+r280,g16,hotfix_hope,41.9,True,15,2026-05-18,"Patch 1.0.4 actually fixed the T-posing and my quest log finally makes sense. Coldsnap has been shipping fixes weekly. Cautiously flipping my review to positive, this is slowly becoming the game it promised to be."
+r281,g17,familiar_stories,51.0,True,9,2026-03-21,"Every tenant has a whole life. The vampire requests blackout curtains via increasingly passive aggressive letters, the ghost pays rent early out of guilt, and the werewolf blames every full moon incident on his roommate. You renovate towers to unlock new tenant species and every single one is a comedy engine. The economy is broken, who cares, I am rich and laughing."
+r282,g02,bunicuta_gamer,26.0,True,8,2024-05-06,"l-am luat pentru nepotu-miu si acum ne certam pe rand la PC. e genul de joc care te face sa zici ""inca o runda"" pana la 2 noaptea. dragalas rau, recomand cu incredere"
+r283,g11,placement_pain,12.0,False,15,2025-04-10,"My placement matches included two players with 900+ wins and a bot that resigned on move one. The rating system is held together with tape. Great concept, broken ladder."
+r284,g19,gigaclub_gang,74.0,True,22,2026-02-14,"Our group has a standing Thursday reservation. The Gigaclub order with the timer at ten seconds remains the hardest thing we have done in any game: three breads, wrong cheese, someone crying with laughter, the fryer on fire. The chaos scales perfectly with player count and the unlockable kitchens keep it fresh. Speedrun Sandwich understands that comedy is timing."
+r285,g13,twist_survivor,15.0,True,19,2026-01-15,"Wow. That's the review. (The twist, I mean. Wow.)"
+r286,g18,sendhelp_sower,437.2,False,132,2025-08-08,"437 hours played. Not recommended. The devs vanished, the endgame is spreadsheet farming, and my real garden died because I was busy watering fake crops. Last night I set an alarm to harvest turnips that do not exist. I cannot stop playing. Send help."
+r287,g10,three_hour_tour,3.0,True,13,2026-06-25,Uninstalled after three hours. Best three hours of my year.
+r288,g09,wrong_turn_wanda,14.6,False,11,2025-06-02,"No waypoints, no map pins, no fast travel for the first ten hours. I don't have the patience I had at nineteen. Beautiful game, but I bounced off hard."
+r289,g11,engine_spotter,42.0,False,28,2023-09-25,"Obvious engine users in every other lobby. Nobody legitimately finds mate in twelve after four seconds of thinking, five games in a row. The report system does nothing."
+r290,g07,credits_2h11m,2.2,False,13,2025-07-19,Credits rolled at 2h11m and the second act clearly wanted more room to breathe. The haunting escalates beautifully and then just resolves. Great concept stretched thin. If they ever add a chapter I'll flip this thumb.
+r291,g06,grpe_typo_club,12.0,True,6,2025-08-19,i failed my first twenty runs because i kept typing grpe under pressure. the game does not forgive. i do not learn. 10/10
+r292,g15,slurp_hero,12.4,True,3,2023-07-15,"Chill, cheap, and I dream about broth now. Buy it."
+r293,g09,inkwing,19.8,True,8,2025-05-12,Stopped mid-boss to stare at the background art. Died. Worth it.
+r294,g20,slowburn_sensei,87.5,True,8,2026-06-11,"Not for the impatient, and I do not mean the load times, I mean the design. Missions reward planning three turns deep, and pulling off a perfect echo chain feels like composing music. For thinky players this is essential."
+r295,g02,therapy_thistle,41.0,True,22,2023-11-11,my therapist plays this too. we compare builds in session.
+r296,g13,again_at_417,36.0,True,11,2025-08-16,"Finished it, immediately started over. It hits so different when you know."
+r297,g05,shop_blind_sailor,92.0,True,10,2023-09-09,"Pretend the shop doesn't exist and this is the best naval combat around. Wind actually matters, boarding is chaotic joy, and the sea shanties slap. My crew of four has a standing Tuesday appointment."
+r298,g08,moon_magnet,21.0,True,6,2024-01-18,Died 400 times on Gravity Well 7. Regret nothing.
+r299,g19,couch_captain,32.6,True,14,2025-05-11,"Four players, one kitchen, ninety seconds, a bread catapult. We screamed so much the neighbors checked on us. Best couch co-op purchase in years, and it is nine euro."
+r300,g07,cubicle_cryptid,4.7,True,24,2026-01-20,"I've worked in offices for eleven years and this is the first horror game to understand that the genre was always about us. The haunting escalates through passive-aggressive cell comments, a shared file that is somehow always locked by someone named nobody, and a budget that balances itself if you stop watching. It's still short even with the free chapter, but I laughed, I gasped, and I filed the whole experience under miscellaneous expenses."
