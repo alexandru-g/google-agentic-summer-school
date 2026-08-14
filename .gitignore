@@ -16,3 +16,6 @@ slides/build/
 # instructor-only material (runbooks, teaching scripts, ground truth, release plan)
 # — remove this line after the course if you want to open-source the kit
 instructor/
+
+# adk web local session databases
+.adk/
