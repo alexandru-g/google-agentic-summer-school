@@ -1,6 +1,6 @@
 """Playfield analyst tools — Day 3 scaffold.
 
-Everything you finished yesterday is here already (search_reviews,
+Everything you finished last session is here already (search_reviews,
 analyze_review, catalog tools). Today's additions, in walkthrough order:
 
 - Part 1: track_game / list_tracked_games  → session STATE (the agent's memory)
