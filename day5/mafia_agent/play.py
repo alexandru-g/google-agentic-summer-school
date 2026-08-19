@@ -54,9 +54,12 @@ async def main() -> None:
     args = parser.parse_args()
 
     print(f"🎭 {args.name} connecting to {SERVER_URL}")
-    runner = InMemoryRunner(agent=root_agent, app_name="mafia")
+    # ADK keys sessions by the (app_name, user_id, session_id) TRIPLE —
+    # create and look up with the same values or you get "Session not found"
+    app_name, session_id = "mafia", "game"
+    runner = InMemoryRunner(agent=root_agent, app_name=app_name)
     await runner.session_service.create_session(
-        app_name="killer", user_id=args.name, session_id="game")
+        app_name=app_name, user_id=args.name, session_id=session_id)
 
     message = KICKOFF.format(name=args.name)
     errors_in_a_row = 0
@@ -65,7 +68,7 @@ async def main() -> None:
         try:
             async for event in runner.run_async(
                 user_id=args.name,
-                session_id="game",
+                session_id=session_id,
                 new_message=types.Content(
                     role="user", parts=[types.Part(text=message)]),
             ):
