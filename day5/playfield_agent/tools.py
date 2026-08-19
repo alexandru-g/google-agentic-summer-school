@@ -13,7 +13,7 @@ from google.genai import types
 from google.adk.tools import ToolContext
 from pydantic import BaseModel
 
-GEN_MODEL = "gemini-2.5-flash"
+GEN_MODEL = "gemini-3.5-flash-lite"
 EMBED_MODEL = "gemini-embedding-001"
 
 
